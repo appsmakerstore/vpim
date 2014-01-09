@@ -8,7 +8,7 @@
 
 require 'vpim/rfc2425'
 require 'vpim/date'
-require 'vpim/time'
+# require 'vpim/time'
 require 'vpim/vpim'
 
 =begin
